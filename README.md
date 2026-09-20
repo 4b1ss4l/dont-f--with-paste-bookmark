@@ -1,4 +1,4 @@
-# Don't F**** With Paste (Bookmark)
+# Don't Fuh With Paste (Bookmark)
 A bookmark script that re-enables paste on blocked websites.
 Um script bookmark que reativa paste em sites bloqueados.
 
